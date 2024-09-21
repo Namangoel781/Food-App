@@ -97,14 +97,10 @@ Sample Endpoints:
 Get products by category: https://world.openfoodfacts.org/category/{category}.json
 Search products by name: https://world.openfoodfacts.org/cgi/search.pl?search_terms={name}&json=true
 Get product details by barcode: https://world.openfoodfacts.org/api/v0/product/{barcode}.json
-Contributing
-Feel free to submit pull requests or issues to improve this project.
 
-License
-This project is open-source and available under the MIT License.
+Time Taken to do the Assignment 
 
-Acknowledgements
-Special thanks to OpenFoodFacts for providing the API used in this project.
+I took approx 4-6 hrs to complete this assignment.
 
 
 
